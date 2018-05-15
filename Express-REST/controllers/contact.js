@@ -18,3 +18,54 @@ exports.create = async (req, res, next) => {
   res.statusCode = 201;
   res.json(contact);
 };
+
+exports.show = async (req, res, next) => {
+  try {
+    const id = req.params.id;
+
+    const contact = await Contact.findById(id);
+
+    if (!contact) {
+      return next();
+    }
+
+    res.json(contact);
+  }
+  catch(err) {
+    next(err);
+  }
+};
+
+exports.update = async (req, res, next) => {
+  try {
+    const id = req.params.id;
+
+    const contact = await Contact.findByIdAndUpdate(id, req.body);
+
+    if (!contact) {
+      return next();
+    }
+
+    res.json(contact);
+  }
+  catch(err) {
+    next(err);
+  }
+};
+
+exports.delete = async (req, res, next) => {
+  try {
+    const id = req.params.id;
+
+    const contact = await Contact.findByIdAndRemove(id);
+
+    if (!contact) {
+      return next();
+    }
+
+    res.json(contact);
+  }
+  catch(err) {
+    next(err);
+  }
+};

@@ -1,5 +1,6 @@
 'use strict';
 
+/*
 const contacts = [{
   firstName: 'Steve',
   lastName: 'Jobs',
@@ -19,3 +20,21 @@ exports.create = (contact) => {
   contacts.push(copy);
   return Promise.resolve(copy);
 };
+*/
+
+const mongoose = require('mongoose');
+
+const schema = new mongoose.Schema({
+  firstName: {
+    type: String,
+    required: [true, 'firstName is required'],
+    trim: true,
+  },
+  lastName: {
+    type: String,
+    required: true,
+    trim: true,
+  },
+});
+
+module.exports = mongoose.model('Contact', schema);
