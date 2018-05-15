@@ -1,0 +1,12 @@
+Certification
+-------------
+
+| N° Session  | Date Fin Session | Centre Gestion |  Animateur                   | Code Vendeur | N° Stagiaire | Civilité | Prénom        | Nom     | E-mail Stagiaire                  | Lien                                                  | Code   | Code Examen | 
+|-------------|------------------|----------------|------------------------------|--------------|--------------|----------|---------------|---------|-----------------------------------|-------------------------------------------------------|--------|-------------| 
+| SE18-070453 | 15/05/2018       | TOURS          | romain.bohdanowicz@gmail.com | EDE          | 424301       | Madame   | Marlène       | BOBAT   | marlene.bobat@nr-communication.fr | http://eq4.fr/?r=82E2F818-4080-4CBA-B88D-8DFD7D33F48F | M2I-LP | JVS-NOD     | 
+| SE18-070453 | 15/05/2018       | TOURS          | romain.bohdanowicz@gmail.com | EDE          | 241503       | Monsieur | Jérôme        | Chery   | jerome.chery@nrco.fr              | http://eq4.fr/?r=0C207E78-AA59-42F6-A71A-4AB48B6AB155 | M2I-LP | JVS-NOD     | 
+| SE18-070453 | 15/05/2018       | TOURS          | romain.bohdanowicz@gmail.com | EDE          | 424291       | Monsieur | Théo          | GUERIN  | theo.guerin@nrco.fr               | http://eq4.fr/?r=72114295-FA74-4DA0-A556-8F1D1E084CC8 | M2I-LP | JVS-NOD     | 
+| SE18-070453 | 15/05/2018       | TOURS          | romain.bohdanowicz@gmail.com | EDE          | 424292       | Monsieur | Sébastian     | GUESDON | sebastian.guesdon@nrco.fr         | http://eq4.fr/?r=125F23E7-2A5B-4B5A-BFD0-704D53C841D4 | M2I-LP | JVS-NOD     | 
+| SE18-070453 | 15/05/2018       | TOURS          | romain.bohdanowicz@gmail.com | EDE          | 328061       | Monsieur | Jean-François | Ozange  | jeanfrancois.ozange@nrco.fr       | http://eq4.fr/?r=CC5C9F31-9FD2-4B74-8AFF-4335D88A659D | M2I-LP | JVS-NOD     | 
+| SE18-070453 | 15/05/2018       | TOURS          | romain.bohdanowicz@gmail.com | EDE          | 424290       | Monsieur | Sylvain       | RAGNEAU | sylvain.ragneau@nrco.fr           | http://eq4.fr/?r=D619C848-CEA2-4CA3-884F-E630AC768F97 | M2I-LP | JVS-NOD     | 
+| SE18-070453 | 15/05/2018       | TOURS          | romain.bohdanowicz@gmail.com | EDE          | 328062       | Monsieur | Yves          | Roussel | yves.roussel@nrco.fr              | http://eq4.fr/?r=716CB790-04A5-422E-8705-C1D3B8DF41CF | M2I-LP | JVS-NOD     | 

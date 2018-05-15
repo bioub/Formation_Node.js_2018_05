@@ -7,10 +7,14 @@
   "scripts": {
     "start": "node .",
     "start:dev": "nodemon .",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "test": "npm run lint && mocha --recursive tests"
   },
   "devDependencies": {
+    "chai": "^4.1.2",
     "eslint": "^4.19.1",
-    "nodemon": "^1.17.4"
+    "mocha": "^5.1.1",
+    "nodemon": "^1.17.4",
+    "sinon": "^5.0.7"
   }
 }

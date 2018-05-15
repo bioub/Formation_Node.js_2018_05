@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "Express-REST"
+		},
+		{
+			"path": "Express-Web"
+		},
+		{
+			"path": "Webpack"
 		}
 	],
 	"settings": {}
